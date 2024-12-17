@@ -1,0 +1,30 @@
+_repo: Shells_74872
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilcox, Ella Wheeler
+    alias: Wheeler, Ella
+    birthdate: 1850
+    deathdate: 1919
+    gutenberg_agent_id: '1138'
+    url: http://www.gutenberg.org/2009/agents/1138
+    wikipedia: https://en.wikipedia.org/wiki/Ella_Wheeler_Wilcox
+description: ''
+gutenberg_issued: '2024-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74872'
+language: en
+pgterms:marc904: https://archive.org/details/shells00wilc/page/n5/mode/2up
+pgterms:marc905: 20241121123128wheeler
+pgterms:marc906: '1873'
+pgterms:marc907: US
+production_note: Debra Ella LaVergne
+publication_note: '  $aMilwaukee :$bHauser & Storey, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Shells
+url: http://www.gutenberg.org/ebooks/74872
